@@ -1,0 +1,19 @@
+.search-form {
+    margin: 15px;
+}
+
+.search-box {
+    padding: 5px;
+    border: 0;
+    border-bottom: 1px dotted #000;
+}
+
+.search-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
